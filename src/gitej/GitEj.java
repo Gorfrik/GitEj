@@ -19,6 +19,7 @@ public class GitEj {
         for (int i = 0; i < saludo.length(); i++) {
             System.out.println((i+1)+" "+saludo);
         }
+        System.out.println("Se escribio "+saludo.length()+" veces");
     }
     
 }
