@@ -19,6 +19,8 @@ public class GitEj {
         for (int i = 0; i < saludo.length(); i++) {
             System.out.println((i+1)+" "+saludo);
         }
+        Deletrea del=new Deletrea();
+        del.Deletrea(saludo);
     }
     
 }
